@@ -1,0 +1,25 @@
+# NAME: AppleTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-01-08 15:57:05
+# - DOMAIN: 6
+# - DOMAIN-SUFFIX: 1
+# PROCESS-NAME: 1
+# TOTAL: 8
+payload:
+  - DOMAIN-SUFFIX,edns.ip-api.com
+  - DOMAIN-SUFFIX,ipv4.surfsharkdns.com
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,dnsleak.com
+  - DOMAIN-SUFFIX,expressvpn.com
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,surfshark.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,perfect-privacy.com
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,browserleaks.net
+  - DOMAIN-SUFFIX,vpnunlimited.com
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,whrq.net
+  - DOMAIN-KEYWORD,leak

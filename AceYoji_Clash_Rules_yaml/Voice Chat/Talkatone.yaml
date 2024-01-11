@@ -1,0 +1,16 @@
+# NAME: AppleTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-01-08 15:57:05
+# -   -   - DOMAIN: 6
+# -   -   - DOMAIN-SUFFIX: 1
+# PROCESS-NAME: 1
+# TOTAL: 8
+payload:
+ - DOMAIN-SUFFIX,tktn.be
+ - DOMAIN-SUFFIX,talkatone.com
+ - DOMAIN-SUFFIX,mobilefuse.com
+ - IP-CIDR,205.164.56.0/24
+ - IP-CIDR,69.46.75.0/24
+ - IP-CIDR,205.164.56.0/24
+ - IP-CIDR,50.117.27.0/24
