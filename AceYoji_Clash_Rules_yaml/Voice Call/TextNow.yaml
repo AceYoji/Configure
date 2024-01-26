@@ -7,9 +7,9 @@
 # PROCESS-NAME: 1
 # TOTAL: 8
 payload:
-  - DOMAIN-SUFFIX, inmobi.com, Voice Call
-  - DOMAIN-SUFFIX, leanplum.com, Voice Call
-  - DOMAIN-SUFFIX, emb-api.com, Voice Call
-  - DOMAIN-SUFFIX, perimeterx.net, Voice Call
-  - DOMAIN-SUFFIX, textnow.com, Voice Call
-  - DOMAIN-SUFFIX, textnow.me, Voice Call
+  - DOMAIN-SUFFIX,inmobi.com,Voice Call
+  - DOMAIN-SUFFIX,leanplum.com,Voice Call
+  - DOMAIN-SUFFIX,emb-api.com,Voice Call
+  - DOMAIN-SUFFIX,perimeterx.net,Voice Call
+  - DOMAIN-SUFFIX,textnow.com,Voice Call
+  - DOMAIN-SUFFIX,textnow.me,Voice Call

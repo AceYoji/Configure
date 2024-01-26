@@ -1,11 +1,11 @@
 # XPTV本地分流
 
 payload:
-  - DOMAIN, www.inmi.app, proxy
-  - DOMAIN, cdn.iz8qkg.com, proxy
-  - DOMAIN, cdn.v82u1l.com, proxy
-  - DOMAIN, m3u.haiwaikan.com, proxy
-  - DOMAIN, img.haiwaikan.com, proxy
-  - DOMAIN, haiwaikan.com, proxy
-  - DOMAIN, free-adsmind.ugdtimg.com, proxy
-  - DOMAIN, www.czzy88.com, proxy
+  - DOMAIN,www.inmi.app,XPTV
+  - DOMAIN,cdn.iz8qkg.com,XPTV
+  - DOMAIN,cdn.v82u1l.com,XPTV
+  - DOMAIN,m3u.haiwaikan.com,XPTV
+  - DOMAIN,img.haiwaikan.com,XPTV
+  - DOMAIN,haiwaikan.com,XPTV
+  - DOMAIN,free-adsmind.ugdtimg.com,XPTV
+  - DOMAIN,www.czzy88.com,XPTV

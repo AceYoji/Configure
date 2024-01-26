@@ -2,9 +2,9 @@
 
 
 
-host-suffix, inmobi.com, Voice Call
-host-suffix, leanplum.com, Voice Call
-host-suffix, emb-api.com, Voice Call
-host-suffix, perimeterx.net, Voice Call
-host-suffix, textnow.com, Voice Call
-host-suffix, textnow.me, Voice Call
+host-suffix,inmobi.com,Voice Call
+host-suffix,leanplum.com,Voice Call
+host-suffix,emb-api.com,Voice Call
+host-suffix,perimeterx.net,Voice Call
+host-suffix,textnow.com,Voice Call
+host-suffix,textnow.me,Voice Call
