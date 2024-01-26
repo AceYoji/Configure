@@ -1,0 +1,8 @@
+# 影视站本地分流
+host-suffix, freeok.vip, WebTV
+host-suffix, freeok.pro, WebTV
+host, tscdn.leshibf.com, WebTV
+host, v1.sxzyhuij.com, WebTV
+host, cdn17.vip-yzzy-tv.com, WebTV
+host, v1.suonizy-youku.com, WebTV
+host, tscdn.hyz1.top, WebTV

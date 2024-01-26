@@ -1,0 +1,9 @@
+# XPTV本地分流
+host, www.inmi.app, proxy
+host, cdn.iz8qkg.com, proxy
+host, cdn.v82u1l.com, proxy
+host, m3u.haiwaikan.com, proxy
+host, img.haiwaikan.com, proxy
+host, haiwaikan.com, proxy
+host, free-adsmind.ugdtimg.com, proxy
+host, www.czzy88.com, proxy
