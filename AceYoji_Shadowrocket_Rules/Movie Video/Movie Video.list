@@ -1,0 +1,9 @@
+# 影视站本地分流
+
+DOMAIN,tscdn.leshibf.com,WebTV
+DOMAIN,v1.sxzyhuij.com,WebTV
+DOMAIN,cdn17.vip-yzzy-tv.com,WebTV
+DOMAIN,v1.suonizy-youku.com,WebTV
+DOMAIN,tscdn.hyz1.top,WebTV
+DOMAIN-SUFFIX,freeok.vip,WebTV
+DOMAIN-SUFFIX,freeok.pro,WebTV
