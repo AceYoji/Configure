@@ -3,9 +3,34 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-01-08 15:57:05
 # -   -   - DOMAIN: 6
-# -   -   - DOMAIN-SUFFIX: 1
+# -   -   -   - DOMAIN-SUFFIX: 1
 # PROCESS-NAME: 1
 # TOTAL: 8
 payload:
   - DOMAIN-SUFFIX,javdb.com,直播专用
   - DOMAIN-SUFFIX,jable.tv,直播专用
+  - DOMAIN-SUFFIX,javdb.com,直播专用
+  - DOMAIN-SUFFIX,jable.tv,直播专用
+  - DOMAIN-SUFFIX,doppiocdn.com,直播专用
+  - DOMAIN-SUFFIX,superchat.live,直播专用
+  - DOMAIN-SUFFIX,xxxjmp.com,直播专用
+  - DOMAIN-SUFFIX,mushroomtrack.com,直播专用
+  - DOMAIN-SUFFIX,xlivesex.com,直播专用
+  - DOMAIN-SUFFIX,bbrdbr.com,直播专用
+  - DOMAIN-SUFFIX,shukriya90.com,直播专用
+  - DOMAIN-SUFFIX,plyr.io,直播专用
+  - DOMAIN-SUFFIX,doppiocdn.org,直播专用
+  - DOMAIN-SUFFIX,strpst.com,直播专用
+  - DOMAIN-SUFFIX,xhamsterlive.com,直播专用
+  - DOMAIN-SUFFIX,doppiocdn.live,直播专用
+  - DOMAIN-SUFFIX,doppiocdn.net,直播专用
+  - DOMAIN-SUFFIX,stripcash.com,直播专用
+  - DOMAIN-SUFFIX,xxxviijmp.com,直播专用
+  - DOMAIN-SUFFIX,stripchatgirls.com,直播专用
+  - DOMAIN-SUFFIX,cambaddies.com,直播专用
+  - DOMAIN-SUFFIX,afcdn.net,直播专用
+  - DOMAIN-SUFFIX,mnaspm.com,直播专用
+  - DOMAIN-SUFFIX,ktkjmp.com,直播专用
+  - DOMAIN-SUFFIX,xlivrdr.com,直播专用
+  - DOMAIN-SUFFIX,tsyndicate.com,直播专用
+  - DOMAIN-SUFFIX,magsrv.com,直播专用
