@@ -1,5 +1,9 @@
 # textnow分流
 
+
+DOMAIN,textnow-static.s3.amazonaws.com,Voice Call
+DOMAIN-SUFFIX,ssacdn.com,Voice Call
+DOMAIN-SUFFIX,ironsrc.mobi,Voice Call
 DOMAIN-SUFFIX,px-cloud.net,Voice Call
 DOMAIN-SUFFIX,4dex.io,Voice Call
 DOMAIN-SUFFIX,inmobi.com,Voice Call
