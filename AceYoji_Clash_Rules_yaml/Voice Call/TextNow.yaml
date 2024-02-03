@@ -7,6 +7,8 @@
 # PROCESS-NAME: 1
 # TOTAL: 8
 payload:
+  - DOMAIN-SUFFIX,px-cloud.net,Voice Call
+  - DOMAIN-SUFFIX,4dex.io,Voice Call
   - DOMAIN-SUFFIX,inmobi.com,Voice Call
   - DOMAIN-SUFFIX,leanplum.com,Voice Call
   - DOMAIN-SUFFIX,emb-api.com,Voice Call
