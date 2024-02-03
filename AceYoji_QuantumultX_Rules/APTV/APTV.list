@@ -1,0 +1,13 @@
+# textnow分流
+
+host-suffix,112114.xyz,APTV
+host-suffix,postimgs.org,proxy
+host-suffix,postimages.org,proxy
+host-suffix,postimg.cc,proxy
+host-suffix,112114.eu.org,APTV
+host-suffix,freetv.top,APTV
+host-suffix,livednow.com,APTV
+host-suffix,stream-link.online,APTV
+host-suffix,fanmingming.com,APTV
+host-suffix,stream-link.org,APTV
+host-suffix,bit.ly,APTV
