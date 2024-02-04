@@ -1,0 +1,31 @@
+# Battle分流
+
+DOMAIN-SUFFIX, goodiptv.club, direct
+DOMAIN,bnetaccount.akamaized.net,Games
+DOMAIN,bnetus-a.akamaihd.net,Games
+DOMAIN,static-forms.klaviyo.com,Games
+DOMAIN,fast.a.klaviyo.com,Games
+DOMAIN,cdn.cookielaw.org,Games
+DOMAIN,cdn.weglot.com,Games
+DOMAIN,shopify-gtm-suite.getelevar.com,Games
+DOMAIN,geolocation.onetrust.com,Games
+DOMAIN,cdnjs.cloudflare.com,Games
+DOMAIN,cdn.cookielaw.org,Games
+DOMAIN,static.klaviyo.com,Games
+DOMAIN,cdn.weglot.com,Games
+DOMAIN,cdn.shopify.com,Games
+DOMAIN,geolocation.onetrust.com,Games
+DOMAIN,d1yyu14twbo3rh.cloudfront.net,Games
+DOMAIN-SUFFIX,giphy.com,Games
+DOMAIN,blznews.akamaized.net,Games
+DOMAIN,blz-contentstack-assets.akamaized.net,Games
+DOMAIN,blz-contentstack-images.akamaized.net,Games
+DOMAIN,blzprofile.akamaized.net,Games
+DOMIAN-KEYWORD,blizzard,Games
+DOMAIN,blizzard.nefficient.co.kr,Battle
+DOMAIN,blzddist1-a.akamaihd.net,Battle
+DOMAIN,blzddistkr1-a.akamaihd.net,Battle
+DOMAIN,bnetproduct-a.akamaihd.net,Battle
+DOMAIN,cdn.blz-contentstack.com,Battle
+DOMAIN-SUFFIX,battle.net,Battle
+DOMAIN-SUFFIX,blizzard.com,Battle
