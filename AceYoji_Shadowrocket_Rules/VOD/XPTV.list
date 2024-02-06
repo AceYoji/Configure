@@ -3,8 +3,17 @@
 DOMAIN-SUFFIX,inmi.app,XPTV
 #欧乐影院（代理）
 DOMAIN-SUFFIX,olevod.com,XPTV
+DOMAIN-SUFFIX,olelive.com,XPTV
 #海外看（代理）
 DOMAIN-SUFFIX,haiwaikan.com,XPTV
+#厂长资源
+DOMAIN-SUFFIX,czzy88.com,XPTV
+DOMAIN-SUFFIX,czzy22.com,XPTV
+DOMAIN-SUFFIX,czzy66.com,XPTV
+#在线之家（直连）
+DOMAIN-SUFFIX,zxzja.com,XPTV
+DOMAIN-SUFFIX,zxzjhd.com,XPTV
+DOMAIN-SUFFIX,zxzj.pro,XPTV
 #天翼资源（代理）
 DOMAIN-SUFFIX,911ysw.top,XPTV
 DOMAIN-SUFFIX,iz8qkg.com,XPTV

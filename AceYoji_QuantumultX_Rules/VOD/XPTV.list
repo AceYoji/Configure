@@ -2,8 +2,17 @@
 host-suffix,inmi.app,XPTV
 #欧乐影院（代理）
 host-suffix,olevod.com,XPTV
+host-suffix,olelive.com,XPTV
 #海外看（代理）
 host-suffix,haiwaikan.com,XPTV
+#厂长资源（直连）
+host-suffix,czzy88.com,XPTV
+host-suffix,czzy22.com,XPTV
+host-suffix,czzy66.com,XPTV
+#在线之家（直连）
+host-suffix,zxzja.com,XPTV
+host-suffix,zxzjhd.com,XPTV
+host-suffix,zxzj.pro,XPTV
 #天翼资源（代理）
 host-suffix,911ysw.top,XPTV
 host-suffix,iz8qkg.com,XPTV
@@ -12,7 +21,6 @@ host-suffix,dplayersvideostatic.com,XPTV
 host-suffix,maccms.la,XPTV
 host-suffix,haiwaikan.tv,XPTV
 host-suffix,kin6c1.com,XPTV
-
 
 
 
