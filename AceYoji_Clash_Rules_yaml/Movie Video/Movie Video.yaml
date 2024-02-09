@@ -106,3 +106,5 @@ payload:
   - DOMAIN-SUFFIX,imgikzy.com,WebTV
   - DOMAIN-SUFFIX,yximgs.com,WebTV
   - DOMAIN,p2.a.yximgs.com,WebTV
+  - DOMAIN,v.cdnlz2.com,WebTV
+  - DOMAIN,vip.ffzy-online6.com,WebTV
