@@ -7,6 +7,6 @@
 # PROCESS-NAME: 1
 # TOTAL: 8
 payload:
-  -DOMAIN-SUFFIX,skype.com,Skype
-  -DOMAIN-SUFFIX,skypeassets.com,Skype
+  - DOMAIN-SUFFIX,skype.com,Skype
+  - DOMAIN-SUFFIX,skypeassets.com,Skype
 
