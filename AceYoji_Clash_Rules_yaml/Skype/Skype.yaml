@@ -7,7 +7,6 @@
 # PROCESS-NAME: 1
 # TOTAL: 8
 payload:
-  - DOMAIN-SUFFIX,eggtartcloud.shop,Emby
-  - DOMAIN-SUFFIX,jellyfin.asia,Emby
-
+  -DOMAIN-SUFFIX,skype.com,Skype
+  -DOMAIN-SUFFIX,skypeassets.com,Skype
 
