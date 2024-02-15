@@ -7,6 +7,17 @@
 # PROCESS-NAME: 1
 # TOTAL: 8
 payload:
+  - DOMAIN,cdn.adnxs-simple.com,Voice Call
+  - DOMAIN,ae.iads.unity3d.com,Voice Call
+  - DOMAIN,o-sdk.mediation.unity3d.com,Voice Call
+  - DOMAIN,firehose.us-west-2.amazonaws.com,Voice Call
+  - DOMAIN,ocsp.rootca1.amazontrust.com,Voice Call
+  - DOMAIN,ocsp.r2m02.amazontrust.com,Voice Call
+  - DOMAIN,nym1-ib.adnxs-simple.com,Voice Call
+  - DOMAIN,turbo.adsbynimbus.com,Voice Call
+  - DOMAIN,candid.adsbynimbus.com,Voice Call
+  - DOMAIN,textnow-textnow.adsbynimbus.com,Voice Call
+  - DOMAIN,skadnetworks.fyber.com,Voice Call
   - DOMAIN,textnow-static.s3.amazonaws.com,Voice Call
   - DOMAIN-SUFFIX,ssacdn.com,Voice Call
   - DOMAIN-SUFFIX,ironsrc.mobi,Voice Call

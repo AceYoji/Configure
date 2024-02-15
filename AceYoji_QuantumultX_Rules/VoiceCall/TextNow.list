@@ -1,5 +1,16 @@
 # textnow分流
 
+host,cdn.adnxs-simple.com,Voice Call
+host,ae.iads.unity3d.com,Voice Call
+host,o-sdk.mediation.unity3d.com,Voice Call
+host,firehose.us-west-2.amazonaws.com,Voice Call
+host,ocsp.rootca1.amazontrust.com,Voice Call
+host,ocsp.r2m02.amazontrust.com,Voice Call
+host,nym1-ib.adnxs-simple.com,Voice Call
+host,turbo.adsbynimbus.com,Voice Call
+host,candid.adsbynimbus.com,Voice Call
+host,textnow-textnow.adsbynimbus.com,Voice Call
+host,skadnetworks.fyber.com,Voice Call
 host,textnow-static.s3.amazonaws.com,Voice Call
 host-suffix,ssacdn.com,Voice Call
 host-suffix,ironsrc.mobi,Voice Call

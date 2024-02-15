@@ -70,7 +70,6 @@ payload:
   - DOMAIN,blzddistkr1-a.akamaihd.net,Blizzard
   - DOMAIN,bnetproduct-a.akamaihd.net,Blizzard
   - DOMAIN,cdn.blz-contentstack.com,Blizzard
-  - DOMAIN-SUFFIX,giphy.com,Blizzard
   - DOMAIN-SUFFIX,battle.net,Blizzard
   - DOMAIN-SUFFIX,blizzard.com,Blizzard
   - DOMAIN-KEYWORD,blizzard,Blizzard

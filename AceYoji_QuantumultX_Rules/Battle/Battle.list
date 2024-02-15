@@ -54,7 +54,6 @@ host,cdn.weglot.com,Blizzard
 host,cdn.shopify.com,Blizzard
 host,geolocation.onetrust.com,Blizzard
 host,d1yyu14twbo3rh.cloudfront.net,Blizzard
-host-suffix,giphy.com,Blizzard
 host,blznews.akamaized.net,Blizzard
 host,blz-contentstack-assets.akamaized.net,Blizzard
 host,blz-contentstack-images.akamaized.net,Blizzard
