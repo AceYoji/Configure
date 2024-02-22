@@ -1,0 +1,18 @@
+# opgg本地分流
+DOMAIN,mydmp.exelator.com,Blizzard
+DOMAIN,onsite-tag-logs.apps.nielsen.com,Blizzard
+DOMAIN,cdn.exelator.com,Blizzard
+DOMAIN,cmp.quantcast.com,Blizzard
+DOMAIN,cdn.exelator.com,Blizzard
+DOMAIN,hb.vntsm.io,Blizzard
+DOMAIN,hb.vntsm.com,Blizzard
+DOMAIN-SUFFIX,hearthstonejson.com,Blizzard
+DOMAIN-SUFFIX,upapi.net,Blizzard
+DOMAIN-KEYWORD,hearthsim,Blizzard
+DOMAIN-KEYWORD,hsreplay,Blizzard
+
+
+
+
+
+

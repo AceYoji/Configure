@@ -1,0 +1,8 @@
+# XPTV本地分流
+
+payload:
+  - DOMAIN,cd.connatix.com,Games
+  - DOMAIN,cds.connatix.com,Games
+  - DOMAIN,ekr.zdassets.com,Games
+  - DOMAIN-KEYWORD,opgg,Games
+  - DOMAIN-SUFFIX,op.gg,Games

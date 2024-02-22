@@ -1,0 +1,5 @@
+# XPTV本地分流
+
+payload:
+  - DOMIAN,live.metshop.top,direct
+  - DOMIAN,tv.iill.top,direct
