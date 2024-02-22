@@ -12,6 +12,8 @@ DOMAIN,candid.adsbynimbus.com,Voice Call
 DOMAIN,textnow-textnow.adsbynimbus.com,Voice Call
 DOMAIN,skadnetworks.fyber.com,Voice Call
 DOMAIN,textnow-static.s3.amazonaws.com,Voice Call
+DOMAIN,serving.roimediaconsultants.com,Voice Call
+DOMAIN,cognito-identity.us-east-1.amazonaws.com,Voice Call
 DOMAIN-SUFFIX,ssacdn.com,Voice Call
 DOMAIN-SUFFIX,ironsrc.mobi,Voice Call
 DOMAIN-SUFFIX,px-cloud.net,Voice Call

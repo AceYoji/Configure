@@ -1,0 +1,21 @@
+# NAME: AppleTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-01-08 15:57:05
+# -   -   -   - DOMAIN: 6
+# -   -   -   - DOMAIN-SUFFIX: 1
+# PROCESS-NAME: 1
+# TOTAL: 8
+payload:
+  - DOMAIN,api.sooyooj.com,REJECT
+  - DOMAIN,jg.awaliwa.com,REJECT
+  - DOMAIN,i.sogowan.com,REJECT
+  - DOMAIN-SUFFIX,strp.chat,REJECT
+  - DOMAIN-SUFFIX,pleasureforuhk.com,REJECT
+  - DOMAIN-SUFFIX,uug27.com,REJECT
+  - DOMAIN-SUFFIX,xxxivjmp.com,REJECT
+  - DOMAIN-SUFFIX,stripchat.com,REJECT
+  - DOMAIN-SUFFIX,strpst.com,REJECT
+  - DOMAIN-SUFFIX,trackwilltrk.com,REJECT
+  - DOMAIN-SUFFIX,stripcdn.com,REJECT
+  - DOMAIN-SUFFIX,xliirdr.com,REJECT

@@ -12,6 +12,8 @@ host,candid.adsbynimbus.com,Voice Call
 host,textnow-textnow.adsbynimbus.com,Voice Call
 host,skadnetworks.fyber.com,Voice Call
 host,textnow-static.s3.amazonaws.com,Voice Call
+host,serving.roimediaconsultants.com,Voice Call
+host,cognito-identity.us-east-1.amazonaws.com,Voice Call
 host-suffix,ssacdn.com,Voice Call
 host-suffix,ironsrc.mobi,Voice Call
 host-suffix,px-cloud.net,Voice Call

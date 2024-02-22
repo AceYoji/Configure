@@ -1,0 +1,15 @@
+# textnow分流
+
+host,api.sooyooj.com,reject
+host,jg.awaliwa.com,reject
+host,i.sogowan.com,reject
+host-suffix,strp.chat,reject
+host-suffix,pleasureforuhk.com,reject
+host-suffix,uug27.com,reject
+host-suffix,xxxivjmp.com,reject
+host-suffix,stripchat.com,reject
+host-suffix,strpst.com,reject
+host-suffix,trackwilltrk.com,reject
+host-suffix,stripcdn.com,reject
+host-suffix,xliirdr.com,reject
+
