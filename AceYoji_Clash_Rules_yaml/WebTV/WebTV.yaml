@@ -116,3 +116,5 @@ payload:
   - DOMAIN,inews.gtimg.com,WebTV
   - DOMAIN,m.ykimg.com,WebTV
   - DOMAIN,i0.hdslb.com,WebTV
+  - DOMAIN,img.ffzypic.com,WebTV
+  - DOMAIN,v3.douyinvod.com,WebTV

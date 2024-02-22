@@ -24,4 +24,6 @@ host-suffix,emb-api.com,Voice Call
 host-suffix,perimeterx.net,Voice Call
 host-suffix,textnow.com,Voice Call
 host-suffix,textnow.me,Voice Call
+host,serving.roimediaconsultants.com,Voice Call
+host,cognito-identity.us-east-1.amazonaws.com,Voice Call
 
