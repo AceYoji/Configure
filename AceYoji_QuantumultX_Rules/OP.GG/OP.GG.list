@@ -4,8 +4,9 @@ host,cds.connatix.com,Games
 host,ekr.zdassets.com,Games
 host-keyword,opgg,Games
 host-suffix,op.gg,Games
-
-
+host,client-sdk.hackle.io,Games
+host,monitoring.hackle.io,Games
+host,static.zdassets.com,Games
 
 
 

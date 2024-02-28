@@ -1,6 +1,14 @@
 # opgg本地分流
-DOMAIN,live.metshop.top,direct
-DOMAIN,tv.iill.top,direct
+
+DOMAIN,live.metshop.top,China
+DOMAIN,tv.iill.top,China
+DOMAIN-suffix,112114.xyz,China
+DOMAIN-suffix,postimgs.org,China
+DOMAIN-suffix,postimages.org,China
+DOMAIN-suffix,postimg.cc,China
+DOMAIN-suffix,bit.ly,China
+DOMAIN-suffix,fanmingming.com,China
+DOMAIN,cache.ott.fifalive.itv.cmvideo.cn,China
 
 
 

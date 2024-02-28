@@ -6,3 +6,6 @@ payload:
   - DOMAIN,ekr.zdassets.com,Games
   - DOMAIN-KEYWORD,opgg,Games
   - DOMAIN-SUFFIX,op.gg,Games
+  - DOMAIN,client-sdk.hackle.io,Games
+  - DOMAIN,monitoring.hackle.io,Games
+  - DOMAIN,static.zdassets.com,Games

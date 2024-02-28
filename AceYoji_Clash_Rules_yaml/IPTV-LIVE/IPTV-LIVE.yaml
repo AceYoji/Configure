@@ -1,5 +1,13 @@
 # XPTV本地分流
 
 payload:
-  - DOMIAN,live.metshop.top,direct
-  - DOMIAN,tv.iill.top,direct
+  - DOMIAN,live.metshop.top,China
+  - DOMIAN,tv.iill.top,China
+  - DOMIAN-SUFFIX,112114.xyz,China
+  - DOMIAN-SUFFIX,postimgs.org,China
+  - DOMIAN-SUFFIX,postimages.org,China
+  - DOMIAN-SUFFIX,postimg.cc,China
+  - DOMIAN-SUFFIX,bit.ly,China
+  - DOMIAN-SUFFIX,fanmingming.com,China
+  - DOMIAN,cache.ott.fifalive.itv.cmvideo.cn,China
+

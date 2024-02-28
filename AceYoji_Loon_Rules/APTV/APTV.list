@@ -1,15 +1,10 @@
 # textnow分流
 
-DOMAIN-SUFFIX,112114.xyz,APTV
-DOMAIN-SUFFIX,postimgs.org,proxy
-DOMAIN-SUFFIX,postimages.org,proxy
-DOMAIN-SUFFIX,postimg.cc,proxy
-DOMAIN-SUFFIX,112114.eu.org,APTV
-DOMAIN-SUFFIX,freetv.top,APTV
-DOMAIN-SUFFIX,livednow.com,APTV
-DOMAIN-SUFFIX,stream-link.online,APTV
-DOMAIN-SUFFIX,fanmingming.com,APTV
-DOMAIN-SUFFIX,stream-link.org,APTV
-DOMAIN-SUFFIX,bit.ly,APTV
-DOMAIN,cache.ott.fifalive.itv.cmvideo.cn,APTV
-DOMAIN-SUFFIX,laotv.la,APTV
+DOMIAN-SUFFIX,112114.eu.org,APTV
+DOMIAN-SUFFIX,freetv.top,APTV
+DOMIAN-SUFFIX,livednow.com,APTV
+DOMIAN-SUFFIX,stream-link.online,APTV
+DOMIAN-SUFFIX,stream-link.org,APTV
+DOMIAN-SUFFIX,laotv.la,APTV
+DOMIAN-SUFFIX,ubtvfans.com,APTV
+

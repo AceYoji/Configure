@@ -1,16 +1,11 @@
 # 影视站本地分流
 
 payload:
-  - DOMAIN-SUFFIX,112114.xyz,APTV
-  - DOMAIN-SUFFIX,postimgs.org,proxy
-  - DOMAIN-SUFFIX,postimages.org,proxy
-  - DOMAIN-SUFFIX,postimg.cc,proxy
   - DOMAIN-SUFFIX,112114.eu.org,APTV
   - DOMAIN-SUFFIX,freetv.top,APTV
   - DOMAIN-SUFFIX,livednow.com,APTV
   - DOMAIN-SUFFIX,stream-link.online,APTV
-  - DOMAIN-SUFFIX,fanmingming.com,APTV
   - DOMAIN-SUFFIX,stream-link.org,APTV
-  - DOMAIN-SUFFIX,bit.ly,APTV
-  - DOMAIN,cache.ott.fifalive.itv.cmvideo.cn,APTV
   - DOMAIN-SUFFIX,laotv.la,APTV
+  - DOMAIN-SUFFIX,ubtvfans.com,APTV
+
