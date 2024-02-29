@@ -58,4 +58,5 @@ payload:
   - DOMAIN,go.xxxviiijmp.com,直播专用
   - DOMAIN,edge-hls.sacdnssedge.com,直播专用
   - DOMAIN,b-hls-03.sacdnssedge.com,直播专用
-
+  - DOMAIN-SUFFIX,imgstream2.com,直播专用
+  - DOMAIN,18av.mm-cg.com,直播专用

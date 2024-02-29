@@ -49,3 +49,5 @@ host,cdn.zblkqa.com,直播专用
 host,go.xxxviiijmp.com,直播专用
 host,edge-hls.sacdnssedge.com,直播专用
 host,b-hls-03.sacdnssedge.com,直播专用
+host-suffix,imgstream2.com,直播专用
+host,18av.mm-cg.com,直播专用

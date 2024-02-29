@@ -1,0 +1,36 @@
+# NAME: AppleTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-01-08 15:57:05
+# -   -   - DOMAIN: 6
+# -   -   - DOMAIN-SUFFIX: 1
+# PROCESS-NAME: 1
+# TOTAL: 8
+payload:
+  - DOMAIN-SUFFIX,xiaoshuoba.com,Books
+  - DOMAIN-SUFFIX,wsskw.com,Books
+  - DOMAIN-SUFFIX,00shu.com,Books
+  - DOMAIN-SUFFIX,maxreader.net,Books
+  - DOMAIN-SUFFIX,xhytd.com,Books
+  - DOMAIN-SUFFIX,aixiashu.info,Books
+  - DOMAIN-SUFFIX,biquw.la,Books
+  - DOMAIN-SUFFIX,richvv.com,Books
+  - DOMAIN,m.lrts.me,Books
+  - DOMAIN-SUFFIX,hongxiu.com,Books
+  - DOMAIN-SUFFIX,00shu.la,Books
+  - DOMAIN-SUFFIX,81ht.com,Books
+  - DOMAIN-SUFFIX,paoshu8.info,Books
+  - DOMAIN-SUFFIX,zwduxs.com,Books
+  - DOMAIN-SUFFIX,xiaoshuoba.info,Books
+  - DOMAIN-SUFFIX,qiuxs.org,Books
+  - DOMAIN-SUFFIX,60ks.cc,Books
+  - DOMAIN-SUFFIX,bequ6.org,Books
+  - DOMAIN-SUFFIX,iwurexs.net,Books
+  - DOMAIN-SUFFIX,23uswx.org,Books
+  - DOMAIN-SUFFIX,xbiqugu.info,Books
+  - DOMAIN-SUFFIX,pilibook.net,Books
+  - DOMAIN,openbooksourcemsg.stackblog.eu.org,Books
+  - DOMAIN,api.kuduwxw.com,Books
+  - DOMAIN-SUFFIX,77shuku.la,Books
+  - DOMAIN-SUFFIX,fanqianxs.com,Books
+
